@@ -1,4 +1,4 @@
-let kMineColor = UIColor.purple
+let kMineColor = UIColor.blue
 
-public let kPublicMineColor = UIColor.purple
+public let kPublicMineColor = UIColor.green
 
